@@ -77,7 +77,8 @@
       "web.jsx",
       "jsx",
       "node"
-    ]
+    ],
+    "snapshotSerializers": ["./node_modules/jest-html"]
   },
   "babel": {
     "presets": [
