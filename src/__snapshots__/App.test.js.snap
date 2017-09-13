@@ -18,6 +18,11 @@ exports[`App is displayed? 1`] = `
   </div>
   <p
     className="App-intro"
+    style={
+      Object {
+        "color": "red",
+      }
+    }
   >
     To get started, edit 
     <code>
@@ -38,7 +43,10 @@ exports[`App is displayed? 1`] = `
       Welcome to React
     </h2>
   </div>
-  <p class="App-intro">
+  <p
+    class="App-intro"
+    style="color:red;"
+  >
     To get started, edit 
     <code>
       src/App.js
