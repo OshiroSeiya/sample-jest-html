@@ -166,7 +166,7 @@ $ "****/sample-jest-html/node_modules/.bin/jest-html"
 2017-09-20T08:43:32.644Z            extractor INFO  Started watching over snapshot and CSS files
 ```
 
-TODO: sample1画像さす
+<img src="_docs/img/sample1.gif" alt="sample1"/>
 
 見ての通りclassで渡したstyleは見ることができません。。。
 
@@ -206,7 +206,7 @@ $ yarn test -- --coverage -u
       <code>
 ```
 
-TODO: sample2画像指す
+<img src="_docs/img/sample2.gif" alt="sample2"/>
 
 # まとめ
 
